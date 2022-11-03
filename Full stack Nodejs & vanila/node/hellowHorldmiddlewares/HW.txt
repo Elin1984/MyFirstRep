@@ -1,0 +1,9 @@
+/me?q={randomName}
+return 'Name is - {name}'
+
+create a middleWare that save q - query to the request object,
+if no query provided make the default value "Jane/John"
+
+create a middleWare that change variable to the current time - HH:MM:SS:MM 24H
+** Bonus **
+create a "logs" text file
